@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "616177752782",
+    "project_id": "spring-boot-course-2021",
+    "storage_bucket": "spring-boot-course-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616177752782:android:df326265b565d67c6b4e9f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_course_autumn_2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616177752782-eldni0tfaoljvtppcriejenn4rk1p8vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpDoxdsqXRZJd0nRDVnrVzDTnDnxHqjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616177752782-eldni0tfaoljvtppcriejenn4rk1p8vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616177752782:android:28b6a568de7091f86b4e9f",
+        "android_client_info": {
+          "package_name": "org.closure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616177752782-eldni0tfaoljvtppcriejenn4rk1p8vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpDoxdsqXRZJd0nRDVnrVzDTnDnxHqjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616177752782-eldni0tfaoljvtppcriejenn4rk1p8vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
